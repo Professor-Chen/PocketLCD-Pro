@@ -1,0 +1,63 @@
+Board Information Report
+Filename     : D:\公司文件\1.产品\1.PocketLCD一代\6.量产资料\cover\cover.PcbDoc
+Date         : 2021/9/20
+Time         : 23:20:00
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 14.7828mmx71.0184mm
+    Components on board, 1
+count : 2
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top1, 0, 0, 0, 0, 0, 0, 1, 0
+    Bottom2, 0, 19, 0, 0, 0, 0, 1, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 1
+    Mechanical 2, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 7, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 10, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 12, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 14, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 19, 2, 0, 0, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Solder, 2, 0, 0, 16, 9, 0, 1, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 2, 0, 0, 4, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 5, 0, 0, 0, 0, 1, 0
+count : 20
+
+Drill Pairs, Vias
+count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top1, 1.523, 982.665, 94%
+    Bottom2, 1.503, 969.438, 93%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 19, 0
+count : 1
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+    82.677mil / 35.433mil, 2
+    106.299mil / 35.433mil, 2
+count : 2
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+    2mm, 1
+count : 1
